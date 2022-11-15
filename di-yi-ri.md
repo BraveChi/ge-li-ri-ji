@@ -16,7 +16,7 @@ description: 2022-11-11  阴有小雨
 
 身上这身包裹严实的大白服，已经说明我真要去被隔离了。
 
-<figure><img src="../.gitbook/assets/22111101.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/22111101.jpg" alt=""><figcaption></figcaption></figure>
 
 在车上最难熬的是等待，等待发车，人陆陆续续的上车，每个人都挺惊讶的，怎么回事？不是刚解封两天吗？也有很放松的，因为那人是两天前刚放回来的上批隔离人员。大部分时间里大家都在讨论是如何被密接的？最后发现大多数人昨天做核酸都是在物业办公室检测的，当时三条核酸队伍，两边是核酸小屋，中间人最少的是物业办公室，有个别是超市密接的。
 
@@ -52,11 +52,11 @@ description: 2022-11-11  阴有小雨
 
 当然不会忘记在微信上给朋友分享了一下这个令他们“振奋欢欣”的大好消息。
 
-11点半，按时送饭上门，快餐盒饭，三荤，还不错，就是量有点不够，群里有人要馒头的，答应下次给加。
+11点半，按时送饭上门，快餐盒饭，三荤，还不错，就是量有点不够，群里有人要馒头的，答应下次给加。 [san-can-ji-lu-yi.md](di-yi-ri/san-can-ji-lu-yi.md "mention") &#x20;
 
 1点睡了1小时午觉，起来看新闻，有一个好消息，中央今天对防疫工作重新部署，7+3改成5+3了，也就是我这次隔离可能是5天。希望快点执行！
 
-<figure><img src="../.gitbook/assets/22111102.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/22111102.jpg" alt=""><figcaption></figcaption></figure>
 
 15点的时候，用桌子上的水银温度计量了体温，发到群里：36.1°
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-* [第一日](di-yi-ri/README.md)
+* [第一日](di-yi-ri.md)
   * [三餐记录一](di-yi-ri/san-can-ji-lu-yi.md)
 * [第二日](di-er-ri.md)
 * [第三日](di-san-ri/README.md)
