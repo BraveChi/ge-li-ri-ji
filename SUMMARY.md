@@ -8,6 +8,7 @@
 * [第三日](di-san-ri/README.md)
 * [第四日](di-si-ri/README.md)
 * [第五日](di-wu-ri.md)
+* [第六日](di_liu_ri.md)
 
 ## 餐食
 
