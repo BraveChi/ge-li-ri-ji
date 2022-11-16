@@ -16,3 +16,6 @@ description: 11/11 - 11/17
 
 2022-11-16
 
+
+
+<figure><img src=".gitbook/assets/qrcode_for_gh_a2118ebbde48_258.jpg" alt=""><figcaption><p>勇者不孤公众号</p></figcaption></figure>
