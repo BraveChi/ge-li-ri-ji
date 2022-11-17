@@ -74,3 +74,5 @@ description: '2022-11-13'
 > 隔离酒店不是平时的酒店，服务都是大白给你服务，所以不要想着一次性牙刷/换洗被罩/打扫卫生之类的服务。
 >
 > 以上表格里隔离包是推荐给男士的。
+
+下午的时候找了个电影看 [dian-ying-xiao-shen-ke-de-jiu-shu.md](../dian-ying-xiao-shen-ke-de-jiu-shu.md "mention")
