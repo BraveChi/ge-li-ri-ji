@@ -42,11 +42,14 @@ description: '2022-11-15'
 
 我能坐在这里写字，也是赶上了被隔离的缘故，否则正经人谁写日记啊？
 
-![](.gitbook/assets/22111504.jpeg)
+<figure><img src=".gitbook/assets/22111504.jpeg" alt=""></figure>
+
 
 前面说了，我现在正在将Pad上的内容通过电脑搬运到网络上，需要把之前写的日记重新誊录一遍，写了上万字了，期间歇会刷刷手机，越写越觉着写文章这事就是用算盘记账牛拉犁，正月初一卖门神，过时了，这个时代不属于文字。
 
-![我的时代已经结束，作为旧时代的残党](.gitbook/assets/22111505.jpeg)
+<figure><img src=".gitbook/assets/22111505.jpeg" alt=""><figcaption><p>我的时代已经结束，作为旧时代的残党</p></figcaption></figure>
+
+不再整理每日菜谱了！每天几乎都差不多。
 
 ***
 
