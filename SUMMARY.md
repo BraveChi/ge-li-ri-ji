@@ -24,4 +24,4 @@
 
 ## 附文
 
-* [致敬“大白”](fu/zhi-jing-da-bai.md)
+* [感谢“大白”](fu/zhi-jing-da-bai.md)
